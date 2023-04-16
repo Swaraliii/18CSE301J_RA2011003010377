@@ -249,6 +249,8 @@ ul li a:hover span{
     min-height: 100vh;
     background: #000;
 }
+
+
 embed{
     border-radius: 20px;
 }
@@ -265,6 +267,12 @@ embed{
     font-size: 3rem;
     top: 10px;
     text-align: center;
+}
+.my_dataviz{
+    max-width: 70rem;
+    position: relative;
+    left: 400px;
+    padding: 200px;
 }
 .d3 h1{
     color: #fff;
